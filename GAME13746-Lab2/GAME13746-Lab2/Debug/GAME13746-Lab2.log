@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\devin\source\repos\GAME13746-Lab2\GAME13746-Lab2\Main.cpp(21,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\devin\source\repos\GAME13746-Lab2\GAME13746-Lab2\Main.cpp(22,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GAME13746-Lab2.vcxproj -> C:\Users\devin\source\repos\GAME13746-Lab2\Debug\GAME13746-Lab2.exe
