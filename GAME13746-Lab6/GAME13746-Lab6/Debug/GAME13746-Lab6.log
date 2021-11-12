@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\devin\source\repos\GAME13746-Lab6\GAME13746-Lab6\Main.cpp(13,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\devin\source\repos\GAME13746-Lab6\GAME13746-Lab6\Main.cpp(15,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devin\source\repos\GAME13746-Lab6\GAME13746-Lab6\Main.cpp(19,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\devin\source\repos\GAME13746-Lab6\GAME13746-Lab6\Main.cpp(28,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  GAME13746-Lab6.vcxproj -> C:\Users\devin\source\repos\GAME13746-Lab6\Debug\GAME13746-Lab6.exe
