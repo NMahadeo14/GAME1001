@@ -1,0 +1,3 @@
+﻿  Character.cpp
+C:\Users\devin\source\repos\GAME13746_Lab8\GAME13746_Lab8\Character.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GAME13746_Lab8.vcxproj -> C:\Users\devin\source\repos\GAME13746_Lab8\Debug\GAME13746_Lab8.exe
